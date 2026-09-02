@@ -29,3 +29,13 @@ function longestWord(sentence){
 
 
 console.log(longestWord("My name is shubham AWASTI"))
+
+
+function reverseString(){
+    sh
+}
+
+
+let name = "shubham";
+
+console.log(name);
