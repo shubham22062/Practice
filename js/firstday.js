@@ -36,6 +36,15 @@ function reverseString(){
 }
 
 
-let name = "shubham";
 
-console.log(name);
+
+
+
+
+let name = "shubham";
+let age = 20;
+let city = "New Delhi";
+let college = "Nims University";
+
+
+console.log(`${name} is belongs to ${city} and he is ${age} year old and he study at ${college}`)
