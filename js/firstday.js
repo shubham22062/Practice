@@ -48,3 +48,19 @@ let college = "Nims University";
 
 
 console.log(`${name} is belongs to ${city} and he is ${age} year old and he study at ${college}`)
+
+
+
+function counter() {
+  let count = 0;
+
+  return function () {
+    count++;
+    return count;
+  };
+}
+
+const increment = counter();
+
+console.log(increment()); // 1
+console.log(increment()); // 2
