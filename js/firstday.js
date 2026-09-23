@@ -70,3 +70,10 @@ console.log(increment()); // 2
 array.forEach(function(element , index , array){
     //code ..
 });
+
+
+const number = [20,30,60,70,80];
+
+number.forEach((number)=>{
+    console.log(number);
+})
