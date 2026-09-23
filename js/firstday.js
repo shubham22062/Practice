@@ -67,6 +67,6 @@ console.log(increment()); // 2
 
 //for each is an array method used to run the function for evey elements of array ...
 
-array.forEach(element , index , array){
+array.forEach(function(element , index , array)){
     //code ..
 }
