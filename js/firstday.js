@@ -64,3 +64,9 @@ const increment = counter();
 
 console.log(increment()); // 1
 console.log(increment()); // 2
+
+//for each is an array method used to run the function for evey elements of array ...
+
+array.forEach(element , index , array){
+    //code ..
+}
