@@ -89,3 +89,7 @@ while(nums>0){
 
     nums = Math.floor(nums/10)
 }
+
+print("Hello")
+print("World")
+print("Python")
