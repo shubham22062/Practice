@@ -171,3 +171,15 @@ skills.pop("React");
 skills.unshift("git");
 
 skills.shift();
+
+
+//objects..
+
+const myson = {
+    name : "Rahul",
+    age:21,
+    skills:["JS", "REACT"],
+    greet(){
+        console.log("hello")
+    }
+}
