@@ -140,3 +140,14 @@ console.log(name.includes("ham"));
 console.log(name.slice(0,3));
 
 console.log(name.replace("shub", "S"))
+
+
+
+//Template Literals ..
+
+
+const user = "shubham"
+
+const Age = 22;
+
+console.log(`My name is ${name} and I am ${Age} years old`)
