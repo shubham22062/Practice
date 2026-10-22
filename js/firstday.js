@@ -151,3 +151,23 @@ const user = "shubham"
 const Age = 22;
 
 console.log(`My name is ${name} and I am ${Age} years old`)
+
+
+//Arrays..
+
+const skills = ["HTML", "CSS", "JS"];
+
+console.log(skills[0]);
+
+console.log(skills[3]);
+
+
+// Methods of and arrays
+
+
+skills.push("React");
+skills.pop("React");
+
+skills.unshift("git");
+
+skills.shift();
