@@ -183,3 +183,9 @@ const myson = {
         console.log("hello")
     }
 }
+
+
+console.log(Object.keys(myson));
+console.log(Object.values(myson));
+
+console.log(Object.entries(myson))
