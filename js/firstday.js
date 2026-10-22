@@ -122,3 +122,21 @@ console.log(2**3);
 
 
 const result = age>=18? "Adult":"Minor"
+
+// string ..
+
+
+
+const name = "Shubham"
+
+
+console.log(name.length);
+
+console.log(name.toUpperCase())
+console.log(name.toLowerCase());
+
+console.log(name.includes("ham"));
+
+console.log(name.slice(0,3));
+
+console.log(name.replace("shub", "S"))
