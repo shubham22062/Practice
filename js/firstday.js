@@ -95,3 +95,30 @@ print("World")
 print("Python")
 
 
+function factorial(n){
+       if(n<=1) return 1;
+
+       return n* factorial(n-1);
+}
+
+console.log(factorial(5));
+
+
+// variable store data in memory that your program can use..
+
+var name = "shubham";
+
+let age = 22;
+
+const country = "india";
+
+
+// power operator ..
+
+console.log(2**3);
+
+
+// ternery opertore..
+
+
+const result = age>=18? "Adult":"Minor"
